@@ -1,2 +1,2 @@
-# first-web
-This is my first website creation. Experimenting with different UI animations, and how said animations can be impletmented into the website.
+# journey
+This is my first repository which specializes in front-end software development. Experimenting with different coding languages such as HTML, CSS, and JavaScript, along with basics in React, Bootstrap, and Node.js.
