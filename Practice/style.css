@@ -9,3 +9,11 @@ h1 {
 #salad {
     color: olive;
 }
+
+a:hover {
+    color: orange;
+}
+
+.ctr {
+    text-align: center;
+}
